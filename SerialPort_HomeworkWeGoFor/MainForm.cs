@@ -297,6 +297,11 @@ namespace SerialPort_HomeworkWeGoFor
             _curCode = _UTF_8;
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+        }
+
 
 
 
